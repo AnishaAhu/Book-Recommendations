@@ -1,4 +1,4 @@
-# Art Portfolio
+# Art Journey
 <html>
   <head>
     
