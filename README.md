@@ -1,4 +1,4 @@
-# All About Kattie the Cat
+
 <html>
   <head>
     <title>Kattie the Cat</title>
