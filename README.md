@@ -5,7 +5,8 @@
   </head>
 
   <body>
-    <h1>Who is Kattie?</h1>
+    <h1>All About Kattie the Cat</h1>
+    <h2>Who is Kattie?</h2>
 
     # h1
     ## h2
