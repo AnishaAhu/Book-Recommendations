@@ -9,7 +9,7 @@
       <ul>
         <li><em>Six of Crows</em></li>
         <li><em>Wings of Fire</em></li>
-        <li><em>Six Crimson Crances</em></li>
+        <li><em>Six Crimson Cranes</em></li>
         <li><em>Descendant of the Crane</em></li>
         <li><em>Strike the Zither</em></li>
         <li><em>The School for Good and Evil</em></li>
