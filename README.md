@@ -13,7 +13,6 @@
         <li><em>Descendant of the Crane</em></li>
         <li><em>Strike the Zither</em></li>
         <li><em>The School for Good and Evil</em></li>
-        <li><em>The Last Windwitch</em></li>
       </ul>
     <h1>Books</h1>
     <h2><em>Six of Crows</em></h2>
@@ -22,5 +21,11 @@
     <p><em>Wings of Fire</em> by Tui T. Sutherland isn't exactly young adult fiction and is considered middle grade, but personally, I have been reading these books for quite a while and have a bit of an attachment to them. As a series, <em>Wings of Fire</em> is made up of 3 arcs of books each. There are also side stories, such as <em>Wings of Fire: Legends</em> and <em>Wings of Fire: Winglets</em>. It follows dragons as they solve problems throughout the world. In the first arc, they end a war. In the second arc, they defeat an ancient evil. In the third arc, they... also defeat an ancient evil. I honestly really do love these books, and if you love fantasy and are okay with reading books aimed at a bit of a younger audience, I would not hesitate to recommend this series to you.</p>
     <h2><em>Six Crimson Cranes</em></h2>
     <p>Something I simply want to add, I really love this book's cover. It's absolutely beautiful. Anyway, <em>Six Crimson Cranes</em> by Elizabeth Lim follows a headstrong princess named Shiori who, along with her brothers, gets cursed by her stepmother. Her brothers get turned into cranes, and she cannot speak, for if she does, her brothers will die. But is her stepmother really evil, or is there more at stake here? This book was a fun read, and Shiori is quite the interesting character. Throughout the story, Shiori grows and becomes more mature, and, by the end, has a much greater understanding of the world than before. I particularly enjoyed watching her grow in regards to romance, learning that there is more to it than simply two people getting married. <em>Six Crimson Cranes</em> is also a duology, the second book being <em>The Dragon's Primise</em>. I also recommend you read this one.</p>
+    <h2><em>Descendant of the Crane</em></h2>
+    <p></p>
+    <h2><em>Strike the Zither</em></h2>
+    <p></p>
+    <h2><em>The School for Good and Evil</em></h2>
+    <p></p>
   </body>
 </html>
