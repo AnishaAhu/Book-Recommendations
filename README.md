@@ -7,7 +7,7 @@
       <p>This is simply a collection of books I have come to enjoy. The books I like tend to be in the fantasy genre, or have something to do with magic. Whether or not you like them is up to you, but it's always fun to give a new book a try!</p>
     <h1>Index</h1>
       <ul>
-        <li><em>Six of Crows</em></li>
+        <li><a><em>Six of Crows</em></a></li>
         <li><em>Wings of Fire</em></li>
         <li><em>Six Crimson Cranes</em></li>
         <li><em>Descendant of the Crane</em></li>
@@ -15,8 +15,10 @@
         <li><em>The School for Good and Evil</em></li>
       </ul>
     <h1>Books</h1>
-    <h2><em>Six of Crows</em></h2>
-    <p><em>Six of Crows</em> is a heist story by Leigh Bardugo following Kaz Brekker, Inej, Jesper, Wylan, Nina, and Matthias. It is set in the same world as Bardugo's other series, <em>Shadow and Bone</em>, and is a duology, the second book being <em>The Crooked Kingdom</em> (which I also highly recommend after this one). All of the characters in this book have unique strengths, and they are always interesting to read about. One thing I particularly enjoyed about this book is that much of the romance didn't feel stifling to read about. The romance was built on their actual relationships, so it felt rewarding to read about.</p>
+    <div id="six">
+      <h2><em>Six of Crows</em></h2>
+        <p><em>Six of Crows</em> is a heist story by Leigh Bardugo following Kaz Brekker, Inej, Jesper, Wylan, Nina, and Matthias. It is set in the same world as Bardugo's other series, <em>Shadow and Bone</em>, and is a duology, the second book being <em>The Crooked Kingdom</em> (which I also highly recommend after this one). All of the characters in this book have unique strengths, and they are always interesting to read about. One thing I particularly enjoyed about this book is that much of the romance didn't feel stifling to read about. The romance was built on their actual relationships, so it felt rewarding to read about.</p>
+    </div>
     <h2><em>Wings of Fire</em></h2>
     <p><em>Wings of Fire</em> by Tui T. Sutherland isn't exactly young adult fiction and is considered middle grade, but personally, I have been reading these books for quite a while and have a bit of an attachment to them. As a series, <em>Wings of Fire</em> is made up of 3 arcs of books each. There are also side stories, such as <em>Wings of Fire: Legends</em> and <em>Wings of Fire: Winglets</em>. It follows dragons as they solve problems throughout the world. In the first arc, they end a war. In the second arc, they defeat an ancient evil. In the third arc, they... also defeat an ancient evil. I honestly really do love these books, and if you love fantasy and are okay with reading books aimed at a bit of a younger audience, I would not hesitate to recommend this series to you.</p>
     <h2><em>Six Crimson Cranes</em></h2>
