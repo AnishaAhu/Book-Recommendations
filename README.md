@@ -17,7 +17,8 @@
     <h1>Books</h1>
     <div id="six">
       <h2><em>Six of Crows</em></h2>
-        <p><em>Six of Crows</em> is a heist story by Leigh Bardugo following Kaz Brekker, Inej, Jesper, Wylan, Nina, and Matthias. It is set in the same world as Bardugo's other series, <em>Shadow and Bone</em>, and is a duology, the second book being <em>The Crooked Kingdom</em> (which I also highly recommend after this one). All of the characters in this book have unique strengths, and they are always interesting to read about. One thing I particularly enjoyed about this book is that much of the romance didn't feel stifling to read about. The romance was built on their actual relationships, so it felt rewarding to read about.</p>
+      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651710803i/23437156.jpg" />
+        <p><a href="https://www.goodreads.com/en/book/show/23437156"><em>Six of Crows</em></a> is a heist story by Leigh Bardugo following Kaz Brekker, Inej, Jesper, Wylan, Nina, and Matthias. It is set in the same world as Bardugo's other series, <em>Shadow and Bone</em>, and is a duology, the second book being <em>The Crooked Kingdom</em> (which I also highly recommend after this one). All of the characters in this book have unique strengths, and they are always interesting to read about. One thing I particularly enjoyed about this book is that much of the romance didn't feel stifling to read about. The romance was built on their actual relationships, so it felt rewarding to read about.</p>
     </div>
     <div id="wings">
     <h2><em>Wings of Fire</em></h2>
