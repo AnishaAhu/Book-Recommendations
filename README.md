@@ -17,12 +17,12 @@
     <h1>Books</h1>
     <div id="six">
       <h2><em>Six of Crows</em></h2>
-      <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651710803i/23437156.jpg" />
+      <center><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651710803i/23437156.jpg" /></center>
         <p><a href="https://www.goodreads.com/en/book/show/23437156" target="_blank"><em>Six of Crows</em></a> is a heist story by Leigh Bardugo following Kaz Brekker, Inej, Jesper, Wylan, Nina, and Matthias. It is set in the same world as Bardugo's other series, <em>Shadow and Bone</em>, and is a duology, the second book being <em>The Crooked Kingdom</em> (which I also highly recommend after this one). All of the characters in this book have unique strengths, and they are always interesting to read about. One thing I particularly enjoyed about this book is that much of the romance didn't feel stifling to read about. The romance was built on their actual relationships, so it felt rewarding to read about.</p>
     </div>
     <div id="wings">
     <h2><em>Wings of Fire</em></h2>
-    <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652485680i/61088597.jpg" />
+    <center><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652485680i/61088597.jpg" /></center>
     <p><a href="https://www.goodreads.com/book/show/61088597-wings-of-fire?from_search=true&from_srp=true&qid=WFBISbR93f&rank=3" target="_blank"><em>Wings of Fire</em></a> by Tui T. Sutherland isn't exactly young adult fiction and is considered middle grade, but personally, I have been reading these books for quite a while and have a bit of an attachment to them. As a series, <em>Wings of Fire</em> is made up of 3 arcs of books each. There are also side stories, such as <em>Wings of Fire: Legends</em> and <em>Wings of Fire: Winglets</em>. It follows dragons as they solve problems throughout the world. In the first arc, they end a war. In the second arc, they defeat an ancient evil. In the third arc, they... also defeat an ancient evil. I honestly really do love these books, and if you love fantasy and are okay with reading books aimed at a bit of a younger audience, I would not hesitate to recommend this series to you.</p>
     </div>
     <div id="crimson">
